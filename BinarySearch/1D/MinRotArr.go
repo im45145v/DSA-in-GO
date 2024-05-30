@@ -17,3 +17,5 @@ func findMin(nums []int) int {
 	}
 	return least
 }
+
+// Also the solution for https://takeuforward.org/arrays/find-out-how-many-times-the-array-has-been-rotated/ AFAIK but need to return index of least 
